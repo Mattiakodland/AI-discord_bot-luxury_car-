@@ -47,4 +47,4 @@ async def check(ctx):
 
   
 
-bot.run("MTIyMzU4NjQwOTA0MzE5ODA5NA.GbdtMH.0yp_Htmej4sRpfE0_cG_GSIfXWcEqRU6KXxs5s")
+bot.run("Bot token")
